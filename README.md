@@ -1,6 +1,6 @@
 # Genji MCP Server
 
-[![npm version](https://badge.fury.io/js/@nakamura196/genji-mcp-server.svg)](https://badge.fury.io/js/@nakamura196/genji-mcp-server)
+[![npm version](https://img.shields.io/npm/v/@nakamura196/genji-mcp-server.svg)](https://www.npmjs.com/package/@nakamura196/genji-mcp-server)
 
 A Model Context Protocol (MCP) server that provides access to the Genji API for classical Japanese literature analysis and search. This server enables AI assistants like Claude to search and analyze texts from classical Japanese literature with advanced normalization features.
 
