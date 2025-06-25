@@ -1,6 +1,6 @@
 {
   "name": "@nakamura196/genji-mcp-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Genji API - Classical Japanese literature search and analysis",
   "type": "module",
   "main": "dist/index.js",
