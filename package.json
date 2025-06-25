@@ -5,7 +5,7 @@
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "genji-mcp-server": "dist/index.js"
+    "genji-mcp-server": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",
