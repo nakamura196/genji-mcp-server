@@ -15,7 +15,7 @@ import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprot
 const server = new Server(
   {
     name: 'genji-mcp-server',
-    version: '1.0.0',
+    version: '1.0.1',
   },
   {
     capabilities: {

@@ -128,7 +128,7 @@ The server supports various normalization options for classical Japanese text:
 
 - Node.js 16.0.0 or higher
 - Internet connection for API access
-- Access to the Genji API (https://genji-api.aws.ldas.jp/api)
+- Access to the Genji API (https://genji-api.aws.ldas.jp)
 
 ## Development
 
@@ -149,7 +149,7 @@ npm run dev
 
 ## API Reference
 
-This server interfaces with the [Genji API](https://genji-api.aws.ldas.jp/api), which provides:
+This server interfaces with the [Genji API](https://genji-api.aws.ldas.jp), which provides:
 
 - Full-text search of classical Japanese literature
 - Advanced text normalization for historical Japanese
@@ -180,10 +180,15 @@ If you encounter any issues, please file them on the [GitHub Issues](https://git
 
 ## Related Projects
 
-- [Genji API](https://genji-api.aws.ldas.jp/api) - The underlying API for classical Japanese literature
+- [Genji API](https://genji-api.aws.ldas.jp) - The underlying API for classical Japanese literature
 - [Model Context Protocol](https://modelcontextprotocol.io/) - The protocol this server implements
 
 ## Changelog
+
+### 1.0.1
+- Fix API URL references in documentation
+- Remove unused TypeScript interfaces for cleaner code
+- Update documentation links
 
 ### 1.0.0
 - Initial release
